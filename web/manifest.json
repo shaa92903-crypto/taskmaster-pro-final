@@ -1,6 +1,6 @@
 {
-    "name": "advanced_task_pro",
-    "short_name": "advanced_task_pro",
+    "name": "taskmaster_pro",
+    "short_name": "taskmaster_pro",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
